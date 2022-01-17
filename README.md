@@ -1,8 +1,8 @@
 ---
-### Data Science Study Projects 
+### Data Science Study Projects 📚
 ---
 
-These projects were completed throught the Dataquest Data Science (Python) course; 
+These projects were completed as a part of the Data Science (Python) course with [Dataquest](https://www.dataquest.io/path/data-scientist/); 
 
 1. Intro to Python
 2. Intermediate Python 
@@ -19,5 +19,6 @@ These projects were completed throught the Dataquest Data Science (Python) cours
 13. Intro to Probability
 14. Conditional Probability
 15. Hypothesis Testing
+16. Machine Learning - k-Nearest Neighbors (kNN)
 
-The course also covers areas such as Git, command line and PySpark.
+The course also covered areas such as Git & command line operations.
