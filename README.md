@@ -2,7 +2,7 @@
 ### Data Science Study Projects 📚
 ---
 
-These projects were completed as a part of the Data Science (Python) course with [Dataquest](https://www.dataquest.io/path/data-scientist/); 
+These projects were completed as a part of the Data Science (Python) Certificate with [Dataquest](https://www.dataquest.io/path/data-scientist/); 
 
 1. Intro to Python
 2. Intermediate Python 
@@ -21,4 +21,7 @@ These projects were completed as a part of the Data Science (Python) course with
 15. Hypothesis Testing
 16. Machine Learning - k-Nearest Neighbors (kNN)
 
-The course also covered areas such as Git & command line operations.
+
+- The course also covered areas such as Git & command line operations.
+- SQL Fundamentals Cert - additional course providing more advanced & focused [SQL training](https://www.dataquest.io/path/sql-skills/).
+
